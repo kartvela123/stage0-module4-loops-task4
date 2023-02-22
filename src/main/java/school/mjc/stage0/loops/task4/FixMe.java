@@ -9,8 +9,9 @@ public class FixMe {
                 System.out.println("last");
                 break;
             }
-            System.out.println("will I be printed?");
 
         }
+        System.out.println("will I be printed?");
+
     }
 }
